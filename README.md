@@ -17,5 +17,3 @@ The goal of this project is to detect multiple objects in real-time from a video
 
 ---
 
-## Project Structure
-
