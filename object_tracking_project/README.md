@@ -1,5 +1,5 @@
 
-## 🎯 Objective
+## Objective
 
 The goal of this project is to detect multiple objects in real-time from a video or webcam feed, assign consistent tracking IDs to them using the SORT tracker, and display the class labels (e.g., person, car, cat) on the video frames.
 
@@ -7,7 +7,7 @@ The goal of this project is to detect multiple objects in real-time from a video
 
 ---
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - Python 3
 - OpenCV
@@ -17,5 +17,5 @@ The goal of this project is to detect multiple objects in real-time from a video
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
