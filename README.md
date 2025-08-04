@@ -1,8 +1,3 @@
-# 🧠 CodeAlpha Internship Task: Object Detection & Tracking
-
-This project was completed as part of my internship at **CodeAlpha**. It demonstrates **real-time object detection and tracking** using the **YOLOv8 model** and the **SORT algorithm** with OpenCV and Python.
-
----
 
 ## 🎯 Objective
 
